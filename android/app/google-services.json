@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "82248309532",
+    "project_id": "huego-c0646",
+    "storage_bucket": "huego-c0646.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82248309532:android:38ef122c77d5f7ba2df8d9",
+        "android_client_info": {
+          "package_name": "com.example.hue_go"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQgwdOZEHIcyzQGNh70RVRowrdqs7EDe8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
